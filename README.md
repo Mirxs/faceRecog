@@ -4,7 +4,7 @@
 ## 环境要求
 ### 核心库
 - [**face_recognition**](https://github.com/ageitgey/face_recognition)：一个开源的人脸识别项目
-- **OPenCV**：视频和图像处理
+- **OpenCV**：视频和图像处理
 - 其他项目需要的库
 
 ### GPU加速
