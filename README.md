@@ -23,5 +23,6 @@
 - ![avatar](https://github.com/mingcaixiao/faceRecog/blob/master/ref/5.png "结果信息")
 - ![avatar](https://github.com/mingcaixiao/faceRecog/blob/master/ref/6.png "结果")
 ## 测试
+- ![avatar](https://github.com/mingcaixiao/faceRecog/blob/master/ref/1.gif "测试")
 - ![avatar](https://github.com/mingcaixiao/faceRecog/blob/master/ref/7.png "测试")
 
