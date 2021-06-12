@@ -12,6 +12,8 @@
 
 ## 设计内容
 项目包含三个模块：核心查找模块，UI模块和主程序
+### 检索模块流程图
+![avatar](https://github.com/mingcaixiao/faceRecog/blob/master/ref/1.png)
 
 ## 效果
 
